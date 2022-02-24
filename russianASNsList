@@ -1,15 +1,8 @@
-<title>Russian Federation (RU) ASN Summary - List of Russian Federation IP Addresses - BGPView</title>
-<input type="text" class="form-control" placeholder="Name, ASN, IP, Prefix" name="query_term" id="query-term">
-Russian Federation ASN Summary & Russian Federation IP addresses
-<p>This Russian Federation IP list includes all Russian Federation ASNs assigned, and the complete list of Russian Federation IP addresses list by IP ranges.</p>
-<h4>5,946 ASN Networks</h4>
-<th>ASN</th>
 AS2148
 AS3191
 AS3218
-<td style="width: 300px; overflow: auto">AS-COSMOS root</td>
 AS3253
- AS3325
+AS3325
 AS3343
 AS3351
 AS5480
